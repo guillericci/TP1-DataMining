@@ -20,7 +20,8 @@ El objetivo del trabajo fue aplicar técnicas de análisis exploratorio, reducci
 
 ## Archivos
 
-- `TP1-mineria-datos.ipynb`: Notebook principal con todo el desarrollo del trabajo práctico
+- `Minería_de_datos_Tp1.rar`: Notebook principal con todo el desarrollo del trabajo práctico
+- `Minería_de_datos_Tp1.rar`: Archivo comprimido del Notebook
 - `dxCrop_Soil.csv`: Dataset utilizado
 - `README.md`: Este archivo
 
